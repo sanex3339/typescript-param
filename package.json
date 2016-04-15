@@ -1,0 +1,26 @@
+{
+  "name": "typescript-param",
+  "version": "1.0.0",
+  "description": "Typescript `__param` helper exported as module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanex3339/typescript-param.git"
+  },
+  "keywords": [
+    "typescript",
+    "helpers",
+    "param",
+    "typescript-helpers",
+    "webpack"
+  ],
+  "author": "sanex3339",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sanex3339/typescript-param/issues"
+  },
+  "homepage": "https://github.com/sanex3339/typescript-param#readme"
+}
